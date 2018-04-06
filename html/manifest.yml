@@ -1,9 +1,9 @@
 applications:
 - disk_quota: 1024M
   buildpack: php_buildpack
-  host: spot1
-  name: spot1
+  host: spot5
+  name: spot5
   path: .
   domain: mybluemix.net
   instances: 1
-  memory: 128M
+  memory: 256M
